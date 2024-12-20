@@ -1,0 +1,29 @@
+//APPROACH 1
+class MinStack {
+public:
+    MinStack() {
+        
+    }
+    stack<pair<int,int>> st;
+    void push(int val) {
+    if(st.empty()) st.push({val,val});  
+    else st.push({val,min(val,st.top().second)});  
+    }
+    
+    void pop() {
+    if(st.empty()) return;
+    else st.pop();   
+    }
+    
+    int top() {
+        if(st.empty()) return -1;
+        else return st.top().first; 
+    }
+    
+    int getMin() {
+        if(st.empty()) return -1;
+        else return st.top().second;   
+    }
+};
+//APPROACH 2
+USING THE MATHEMATICAL FORMULA TO SAVE THE PREVIOUS MINIMUM, BUT FACING SOME ISSUES WITH THE DATA TYPE
