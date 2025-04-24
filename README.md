@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Payal1907/LeetcodeMedium/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Payal1907/LeetcodeMedium/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Payal1907/LeetcodeMedium/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Payal1907/LeetcodeMedium/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
