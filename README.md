@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Payal1907/LeetcodeMedium/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
