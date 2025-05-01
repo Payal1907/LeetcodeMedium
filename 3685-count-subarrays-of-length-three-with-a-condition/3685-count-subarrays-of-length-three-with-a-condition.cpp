@@ -7,7 +7,7 @@ public:
         int a=nums[i];
         int b=nums[i+1];
         int c=nums[i+2];
-        if(b/2.0==a+c) count++;
+        if(b/2.0==a+c) count++;//float division, not interger division see TC [-1,-4,-1,4]
     } 
     return count;   
     }
