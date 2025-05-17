@@ -6,7 +6,7 @@ bool find132pattern(vector<int>& nums)
     if(n<3)return false;
     stack<int> st;
     int third=INT_MIN;
-    for(int i=n-1;i>=0;--i)
+    for(int i=n-1;i>=0;i--)
     {
         if(nums[i]<third)return true;
         while(!st.empty()&&nums[i]>st.top())
