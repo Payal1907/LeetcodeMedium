@@ -11,18 +11,9 @@
  */
 class Solution {
 public:
-    int preOrder(TreeNode* root,int&c)
-    {
-        if(root==NULL) return 0;
-        c++;
-        preOrder(root->left,c);
-        preOrder(root->right,c);
-        return c;
-    }
+    
     int countNodes(TreeNode* root) {
-        int c=0;
-        preOrder(root,c);
-        return c;
-        
+        if(root==NULL) return 0;
+        return 1+countNodes(root->left)+countNodes(root->right);   
     }
 };
