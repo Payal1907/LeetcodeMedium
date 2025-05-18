@@ -30,6 +30,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -102,4 +107,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0222-count-complete-tree-nodes) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
