@@ -6,14 +6,11 @@ public:
         *b = *a;
         *a = temp;
     }
-    void reversed(vector<char>& s,int l,int r)
-    {
-        if(l>=r) return;
-        swap(&s[l],&s[r]);
-        reversed(s,l+1,r-1);
-    }
     void reverseString(vector<char>& s) {
     int l = 0, r=s.size()-1;  
-    reversed(s,l,r); 
+    while(l<r)
+    {
+        swap(&s[l++],&s[r--]);
+    } 
     }
 };
