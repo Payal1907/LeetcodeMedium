@@ -15,7 +15,7 @@ public:
     {
     if(root==NULL) return 0;
     int ls=max(0,maxPath(root->left,maxi));
-    int rs=max(0,maxPath(root->right,maxi)); //for negative sum
+    int rs=max(0,maxPath(root->right,maxi)); //for negative sum we are taking max of 0 and then max path
     maxi=max(maxi,ls+rs+root->val);
     return (root->val)+max(ls,rs);
     }
