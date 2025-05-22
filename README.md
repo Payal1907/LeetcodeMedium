@@ -9,6 +9,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -124,6 +125,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
