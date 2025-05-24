@@ -16,5 +16,6 @@ public:
     }
     int countGoodNumbers(long long n) {
     return (power(5,(ll)((n+1)/2))*power(4,(ll)n/2))%MOD;
+    //permutation concept is used, try and check
     }
 };
