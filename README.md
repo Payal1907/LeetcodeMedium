@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
@@ -101,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -132,6 +134,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
