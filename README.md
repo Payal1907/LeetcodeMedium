@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Payal1907/LeetcodeMedium/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0078-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
