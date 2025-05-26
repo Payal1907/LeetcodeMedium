@@ -166,6 +166,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Payal1907/LeetcodeMedium/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
