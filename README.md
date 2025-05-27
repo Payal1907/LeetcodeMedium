@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -174,6 +175,7 @@
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
