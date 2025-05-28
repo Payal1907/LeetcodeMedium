@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0145-binary-tree-postorder-traversal) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
@@ -152,6 +153,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/2050-count-good-numbers) |
 ## Queue
@@ -168,6 +170,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
