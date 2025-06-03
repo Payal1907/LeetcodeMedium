@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Payal1907/LeetcodeMedium/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0172-factorial-trailing-zeroes) |
@@ -153,6 +154,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0222-count-complete-tree-nodes) |
