@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Payal1907/LeetcodeMedium/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
