@@ -129,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
@@ -220,6 +221,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0125-valid-palindrome) |
@@ -232,6 +234,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Payal1907/LeetcodeMedium/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Payal1907/LeetcodeMedium/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
