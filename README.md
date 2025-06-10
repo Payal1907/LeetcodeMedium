@@ -18,6 +18,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
@@ -140,6 +141,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
@@ -196,6 +198,7 @@
 | [0056-merge-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
@@ -267,6 +270,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
@@ -281,6 +285,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
