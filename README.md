@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Payal1907/LeetcodeMedium/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Payal1907/LeetcodeMedium/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/0074-search-a-2d-matrix) |
@@ -267,6 +268,7 @@
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Payal1907/LeetcodeMedium/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0090-subsets-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
