@@ -19,7 +19,7 @@ public:
         {
             if(val>=copy->val)
             {
-                if(copy->right!=NULL) copy=copy->right;
+                if(copy->right) copy=copy->right;
                 else
                 {
                     copy->right=new TreeNode(val);
@@ -28,12 +28,12 @@ public:
             }
             else
             {
-                if(copy->left!=NULL) copy=copy->left;
+                if(copy->left) copy=copy->left;
                 else
-                {
-                    copy->left=new TreeNode(val);
-                    break;
-                }
+                    {
+                        copy->left=new TreeNode(val);
+                        break;
+                    }
             }
         }
         return root;
