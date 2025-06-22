@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0040-combination-sum-ii) |
@@ -164,6 +165,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
