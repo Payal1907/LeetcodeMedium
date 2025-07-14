@@ -21,6 +21,7 @@
 | [0137-single-number-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -396,4 +399,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
