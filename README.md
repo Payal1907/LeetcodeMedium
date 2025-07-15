@@ -178,6 +178,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -292,6 +293,7 @@
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -350,6 +352,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Linked List
 |  |
