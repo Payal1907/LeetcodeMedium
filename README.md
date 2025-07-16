@@ -34,6 +34,7 @@
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
@@ -204,6 +205,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
+| [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Monotonic Stack
@@ -353,6 +355,7 @@
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Linked List
 |  |
@@ -410,4 +413,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
