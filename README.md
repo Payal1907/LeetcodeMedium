@@ -142,6 +142,7 @@
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -308,6 +309,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
@@ -350,6 +352,7 @@
 | [0011-container-with-most-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Payal1907/LeetcodeMedium/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Counting
 |  |
 | ------- |
