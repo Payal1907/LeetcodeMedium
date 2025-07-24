@@ -1,26 +1,33 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-    vector<int> ans;
+    stack<int> ans;
     for(int asteroid : asteroids)
     {
         bool destroyed = false;
-        while(!ans.empty() && asteroid<0 && ans.back()>0)
+        while(!ans.empty() && asteroid<0 && ans.top()>0)
         {
-            if(ans.back()<-asteroid)
+            if(ans.top()<-asteroid)
             {
-                ans.pop_back(); //isme ek ko hi hta rhe hai
+                ans.pop(); //isme ek ko hi hta rhe hai
                 continue;
             }
-            else if(ans.back()==-asteroid)
+            else if(ans.top()==-asteroid)
             {
-                ans.pop_back(); //isme dono ko hta denge, mtlb aaray waale ko lenge hi nai
+                ans.pop(); //isme dono ko hta denge, mtlb aaray waale ko lenge hi nai
             }
             destroyed=true; //ye thired case hai, array waale ki value hi choti hai to destroyed true hoga
             break;
         }
-        if(!destroyed) ans.push_back(asteroid);
+        if(!destroyed) ans.push(asteroid);
     } 
-    return ans;     
+    //stack wala method uses extra space
+    vector<int> result(ans.size());
+    for(int i=ans.size()-1;i>=0;i--)
+    {
+        result[i]=ans.top();
+        ans.pop();
+    }  
+    return result;
     }
 };
