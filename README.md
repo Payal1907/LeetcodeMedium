@@ -432,4 +432,8 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Payal1907/LeetcodeMedium/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
