@@ -57,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Payal1907/LeetcodeMedium/tree/master/0066-plus-one) |
@@ -261,6 +262,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Payal1907/LeetcodeMedium/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
@@ -384,6 +386,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Payal1907/LeetcodeMedium/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 ## Heap (Priority Queue)
