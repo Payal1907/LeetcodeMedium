@@ -52,6 +52,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/Payal1907/LeetcodeMedium/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
@@ -252,6 +253,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0476-number-complement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
@@ -343,6 +345,7 @@
 | [0078-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
@@ -462,4 +465,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
