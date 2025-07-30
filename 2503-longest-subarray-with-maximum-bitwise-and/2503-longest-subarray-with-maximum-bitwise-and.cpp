@@ -1,5 +1,7 @@
 class Solution {
 public:
+//tu notice kregi ki jo maximum element hai wahi bitwise and maximum de rha hai
+//to tu jaha pe bhi maximum element dhoondhegi uska max contiguos length nikaalegi
     int longestSubarray(vector<int>& nums) {
         int maxi = *max_element(nums.begin(),nums.end());
         int length = 0;
