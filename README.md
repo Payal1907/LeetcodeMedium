@@ -164,6 +164,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Payal1907/LeetcodeMedium/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
 ## Ordered Set
@@ -350,6 +352,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
@@ -399,6 +402,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Payal1907/LeetcodeMedium/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Payal1907/LeetcodeMedium/tree/master/2337-remove-digit-from-number-to-maximize-result) |
