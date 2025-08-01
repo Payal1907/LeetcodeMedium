@@ -1,5 +1,8 @@
 class Solution {
 public:
+//basic funda hai ki smaller number bnaane ke liye increasing order me koshish kr 
+//numbers ko rkhne ke liye
+//notes bna lena iske
     string removeKdigits(string num, int k) {
         vector<char> stack;
         string res="";
