@@ -37,6 +37,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -490,6 +491,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 ## Database
 |  |
@@ -518,4 +520,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Payal1907/LeetcodeMedium/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
