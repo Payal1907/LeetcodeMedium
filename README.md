@@ -228,6 +228,7 @@
 | [0940-fruit-into-baskets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/1319-unique-number-of-occurrences) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Payal1907/LeetcodeMedium/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -371,6 +372,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -441,6 +443,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Payal1907/LeetcodeMedium/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
