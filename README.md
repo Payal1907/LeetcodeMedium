@@ -87,6 +87,7 @@
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Payal1907/LeetcodeMedium/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
@@ -220,6 +221,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
@@ -350,6 +352,7 @@
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
