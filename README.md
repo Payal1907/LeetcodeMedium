@@ -88,6 +88,7 @@
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Payal1907/LeetcodeMedium/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -286,6 +287,7 @@
 | [0137-single-number-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Payal1907/LeetcodeMedium/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -316,6 +318,7 @@
 | [0002-add-two-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Payal1907/LeetcodeMedium/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Payal1907/LeetcodeMedium/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/2050-count-good-numbers) |
