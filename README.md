@@ -217,6 +217,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -365,6 +366,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -384,6 +386,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
