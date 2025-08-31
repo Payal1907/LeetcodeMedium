@@ -2,7 +2,6 @@ class Solution {
 public:
     bool isHappy(int n) {
         int count = 10;
-        if(n==1) return true;
         while(count>0)
         {
             int sum=0;
