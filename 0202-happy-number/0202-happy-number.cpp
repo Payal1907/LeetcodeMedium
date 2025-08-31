@@ -3,7 +3,7 @@ public:
     bool isHappy(int n) {
         int count = 10;
         if(n==1) return true;
-        while(n!=1 && count>0)
+        while(count>0)
         {
             int sum=0;
             int temp=n;
