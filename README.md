@@ -54,6 +54,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1206-corporate-flight-bookings) |
 | [1319-unique-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/1319-unique-number-of-occurrences) |
@@ -187,6 +188,7 @@
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Payal1907/LeetcodeMedium/tree/master/0735-asteroid-collision) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Depth-First Search
 |  |
@@ -287,6 +289,7 @@
 | [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
@@ -484,6 +487,7 @@
 | [0061-rotate-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
