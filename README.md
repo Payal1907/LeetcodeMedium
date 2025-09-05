@@ -73,6 +73,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3643-zero-array-transformation-ii) |
@@ -263,6 +264,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
 |  |
 | ------- |
