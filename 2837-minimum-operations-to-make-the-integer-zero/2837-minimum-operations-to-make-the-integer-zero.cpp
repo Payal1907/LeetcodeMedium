@@ -1,5 +1,9 @@
 class Solution {
 public:
+//isme hmne pehle set bits count kiye hai, mtlb jitne set bit honge utne 2 ke powers lgenge
+//aur num1=sigma 2^k - num2 hai,
+//to new_num = num1 - k*num2 hoga
+//ek condition yaad rkhna, set bits of new_num should be <= k, and k<=new_num
     int countBits(long long n)
     {
         int c = 0;
