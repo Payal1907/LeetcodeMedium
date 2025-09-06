@@ -14,6 +14,7 @@
 | [0040-combination-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Payal1907/LeetcodeMedium/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Payal1907/LeetcodeMedium/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0073-set-matrix-zeroes) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0118-pascals-triangle) |
@@ -448,6 +450,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Payal1907/LeetcodeMedium/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
