@@ -409,6 +409,7 @@
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1660-thousand-separator](https://github.com/Payal1907/LeetcodeMedium/tree/master/1660-thousand-separator) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Payal1907/LeetcodeMedium/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
