@@ -570,6 +570,7 @@
 | [0176-second-highest-salary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Payal1907/LeetcodeMedium/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Payal1907/LeetcodeMedium/tree/master/0584-find-customer-referee) |
+| [1258-article-views-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/1317-monthly-transactions-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Payal1907/LeetcodeMedium/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Payal1907/LeetcodeMedium/tree/master/1908-recyclable-and-low-fat-products) |
