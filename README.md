@@ -111,6 +111,7 @@
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3371-harshad-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/3371-harshad-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Payal1907/LeetcodeMedium/tree/master/3830-find-closest-person) |
 | [3936-split-array-by-prime-indices](https://github.com/Payal1907/LeetcodeMedium/tree/master/3936-split-array-by-prime-indices) |
 ## Tree
@@ -420,6 +421,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -598,8 +600,13 @@
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Payal1907/LeetcodeMedium/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
