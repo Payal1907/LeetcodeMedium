@@ -9,6 +9,7 @@ public:
             if(version[i]=='.')
             {
                 if(i>start) tokens.push_back(version.substr(start,i-start));
+                //i-start is the length
                 start=i+1;
             }
         }
