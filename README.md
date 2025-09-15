@@ -255,6 +255,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Payal1907/LeetcodeMedium/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -412,6 +413,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Payal1907/LeetcodeMedium/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1660-thousand-separator](https://github.com/Payal1907/LeetcodeMedium/tree/master/1660-thousand-separator) |
