@@ -1,5 +1,12 @@
 class Solution {
 public:
+//dekh isme pehle to hmne conditional statements ke sath try kiya tha, but problem ye thi ki
+//hr query ke liye sare word nai check kr paa rhe the hm kyuki break kr rhe the baar baar
+//to ye better way hai ki hr type ke error ko hmne store kiya, aur jo case mil jaayege
+//use return kr denge
+//lower func hai, kyuki tolower() words only on character
+//devowel is basically used ki vowels replace krne ke baad query aur word same hai ki nai wo check
+//kr ske, isliye 3 maps for all three cases
     unordered_set<string> exact;
     unordered_map<string,string> caseMp;
     unordered_map<string,string> vowelMp;
