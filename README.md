@@ -104,6 +104,7 @@
 | [0231-power-of-two](https://github.com/Payal1907/LeetcodeMedium/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
