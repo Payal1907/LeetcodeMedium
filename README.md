@@ -102,6 +102,7 @@
 | [0202-happy-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Payal1907/LeetcodeMedium/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -615,6 +616,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Payal1907/LeetcodeMedium/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
@@ -626,5 +628,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
