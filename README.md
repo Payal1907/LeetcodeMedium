@@ -73,6 +73,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Payal1907/LeetcodeMedium/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -264,6 +265,7 @@
 | [1813-maximum-erasure-value](https://github.com/Payal1907/LeetcodeMedium/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Payal1907/LeetcodeMedium/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Payal1907/LeetcodeMedium/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -311,6 +313,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -427,6 +430,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Payal1907/LeetcodeMedium/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
@@ -524,6 +528,7 @@
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1917-maximum-average-pass-ratio](https://github.com/Payal1907/LeetcodeMedium/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
@@ -617,6 +622,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
+| [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 ## Game Theory
 |  |
 | ------- |
