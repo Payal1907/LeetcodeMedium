@@ -77,6 +77,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2388-replace-elements-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2388-replace-elements-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Payal1907/LeetcodeMedium/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -294,6 +295,7 @@
 | [1813-maximum-erasure-value](https://github.com/Payal1907/LeetcodeMedium/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Payal1907/LeetcodeMedium/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2388-replace-elements-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2388-replace-elements-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
@@ -408,6 +410,7 @@
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2388-replace-elements-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2388-replace-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
 | [3790-fruits-into-baskets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3790-fruits-into-baskets-ii) |
