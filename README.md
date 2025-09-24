@@ -26,6 +26,7 @@
 | [0090-subsets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Payal1907/LeetcodeMedium/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
@@ -246,6 +247,7 @@
 | [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
