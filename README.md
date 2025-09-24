@@ -444,6 +444,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0459-repeated-substring-pattern) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Payal1907/LeetcodeMedium/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -670,4 +671,8 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1706-min-cost-to-connect-all-points) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
