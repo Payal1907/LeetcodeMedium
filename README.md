@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/Payal1907/LeetcodeMedium/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Payal1907/LeetcodeMedium/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Payal1907/LeetcodeMedium/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0055-jump-game) |
@@ -273,6 +274,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Payal1907/LeetcodeMedium/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Payal1907/LeetcodeMedium/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
