@@ -50,6 +50,7 @@
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Payal1907/LeetcodeMedium/tree/master/0735-asteroid-collision) |
@@ -330,6 +331,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal1907/LeetcodeMedium/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -383,6 +385,7 @@
 | [0217-contains-duplicate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -435,6 +438,7 @@
 | [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
@@ -523,6 +527,7 @@
 | [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Payal1907/LeetcodeMedium/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Payal1907/LeetcodeMedium/tree/master/1917-maximum-average-pass-ratio) |
