@@ -28,6 +28,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Payal1907/LeetcodeMedium/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
@@ -293,6 +294,7 @@
 | [0036-valid-sudoku](https://github.com/Payal1907/LeetcodeMedium/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Payal1907/LeetcodeMedium/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
@@ -712,6 +714,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0128-longest-consecutive-sequence) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
