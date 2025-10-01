@@ -4,21 +4,18 @@ public:
     if(nums.empty()) return 0;
     unordered_set<int> st(nums.begin(),nums.end());
     int maxi = 0;
-    for(auto num : nums)
+    for(auto num : st)
     { 
         if(!st.count(num-1)) //usse chota koi element nai hai, ab uske upr se  
         //check krenge
         { 
-            int curr=num;
+            int curr=num+1;
             int count=1;
-            st.erase(curr);
-            while(st.count(curr+1))
+            while(st.count(curr))
             {
                 curr++;
                 count++;
-                st.erase(curr);
             }
-            //jbtk set se erase nai kiya TLE de rha tha
             maxi=max(maxi,count);
         }
     }
