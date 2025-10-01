@@ -2,6 +2,9 @@ class Solution {
 public:
     //variables are i and j
     int t[51][51];
+
+    //TC= O(n^3)
+    //SC= O(n^2)
     int solve(vector<int>& nums,int i,int j)
     {
         if(j-i+1<3) return 0; //min teen sides chahiye
