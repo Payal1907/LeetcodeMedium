@@ -4,29 +4,31 @@ public:
 //numbers ko rkhne ke liye
 //notes bna lena iske
     string removeKdigits(string num, int k) {
-        vector<char> stack;
+        stack<char> st;
         string res="";
-        for(char digit : num)
+        for(char c : num)
         {
-            while(!stack.empty() && k>0 && stack.back()>digit)
+            while(!st.empty() && k>0 && st.top()>c)
             {
-                stack.pop_back();
+                st.pop();
                 k--;
             }
-            stack.push_back(digit);
+            st.push(c);
         }  
-        while(k>0)
+        while(k>0 && !st.empty())
         {
-            stack.pop_back();
+            st.pop();
             k--;
         }
-        bool leadingZero=true;
-        for(auto digit : stack)
+        while(!st.empty())
         {
-            if(leadingZero && digit=='0') continue;
-            leadingZero=false;
-            res+=digit;
+            res.push_back(st.top());
+            st.pop();
         }
+        reverse(res.begin(),res.end());
+        int i=0;
+        while(i<res.size() && res[i]=='0') i++;
+        res=res.substr(i);
         return res.empty()?"0":res;
     }
 };
