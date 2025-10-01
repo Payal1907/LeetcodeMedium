@@ -125,6 +125,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Payal1907/LeetcodeMedium/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/Payal1907/LeetcodeMedium/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -429,6 +430,7 @@
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Payal1907/LeetcodeMedium/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
+| [1642-water-bottles](https://github.com/Payal1907/LeetcodeMedium/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
