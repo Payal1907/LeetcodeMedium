@@ -135,6 +135,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Payal1907/LeetcodeMedium/tree/master/3830-find-closest-person) |
@@ -441,6 +442,7 @@
 | [2388-replace-elements-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2388-replace-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
+| [3336-water-bottles-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
