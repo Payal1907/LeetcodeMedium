@@ -84,6 +84,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Payal1907/LeetcodeMedium/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Payal1907/LeetcodeMedium/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -420,6 +421,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
 ## Recursion
@@ -507,6 +509,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Payal1907/LeetcodeMedium/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Payal1907/LeetcodeMedium/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
@@ -539,6 +542,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -614,6 +618,7 @@
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1917-maximum-average-pass-ratio](https://github.com/Payal1907/LeetcodeMedium/tree/master/1917-maximum-average-pass-ratio) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3678-design-task-manager](https://github.com/Payal1907/LeetcodeMedium/tree/master/3678-design-task-manager) |
@@ -689,6 +694,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Enumeration
 |  |
 | ------- |
