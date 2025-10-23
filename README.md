@@ -144,6 +144,7 @@
 | [3336-water-bottles-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Payal1907/LeetcodeMedium/tree/master/3830-find-closest-person) |
 | [3936-split-array-by-prime-indices](https://github.com/Payal1907/LeetcodeMedium/tree/master/3936-split-array-by-prime-indices) |
 ## Tree
@@ -460,6 +461,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
 | [3336-water-bottles-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
@@ -530,6 +532,7 @@
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Payal1907/LeetcodeMedium/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -673,6 +676,7 @@
 | [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -722,6 +726,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0204-count-primes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3936-split-array-by-prime-indices](https://github.com/Payal1907/LeetcodeMedium/tree/master/3936-split-array-by-prime-indices) |
 ## Brainteaser
 |  |
