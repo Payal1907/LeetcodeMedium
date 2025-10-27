@@ -1,20 +1,13 @@
 class Solution {
 public:
-//this takes O(nlongn) but space complexity is o(n), so its useless, better is with hashmap , but still share this
     vector<int> twoSum(vector<int>& nums, int target) {
-    vector<pair<int,int>> v;
-    for(int i=0;i<nums.size();i++)
-    {
-        v.push_back({nums[i],i});
-    }
-    sort(v.begin(),v.end());
-    int l = 0, r = nums.size()-1;
-    while(l<r)
-    {
-        int sum = v[l].first+v[r].first;
-        if(sum==target) return {v[l].second,v[r].second};
-        else if(sum<target) l++;
-        else r--;
+    unordered_map<int, int> twoSum;
+    for (int i = 0; i < nums.size(); i++) {
+        int complement = target - nums[i];
+        if (twoSum.find(complement) != twoSum.end()) {
+            return {twoSum[complement], i};
+        }
+        twoSum[nums[i]] = i;
     }
     return {};
 
