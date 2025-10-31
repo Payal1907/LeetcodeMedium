@@ -11,7 +11,6 @@ public:
         if(nums[index]<0) ans.push_back(index);
         else nums[index]*=-1;
     }
-    sort(ans.begin(),ans.end());
     return ans;
     }
 };
