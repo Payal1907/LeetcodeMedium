@@ -2,13 +2,16 @@ class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
     int n = nums.size();
-    unordered_map<int,int> mp;
+    bool zero = false;
     vector<int> ans;
-    for(auto num : nums) mp[num]++;
-    for(auto num : mp)
+    for(int i=0;i<n;i++) nums[i]+=1;
+    for(int i=0;i<n;i++)
     {
-        if(num.second==2) ans.push_back(num.first);
+        int index=abs(nums[i])-1;
+        if(nums[index]<0) ans.push_back(index);
+        else nums[index]*=-1;
     }
+    sort(ans.begin(),ans.end());
     return ans;
     }
 };
