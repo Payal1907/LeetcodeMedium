@@ -75,6 +75,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal1907/LeetcodeMedium/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal1907/LeetcodeMedium/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -530,6 +531,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Payal1907/LeetcodeMedium/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1524-string-matching-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/Payal1907/LeetcodeMedium/tree/master/1660-thousand-separator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -782,6 +784,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0459-repeated-substring-pattern) |
+| [1524-string-matching-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1524-string-matching-in-an-array) |
 ## Data Stream
 |  |
 | ------- |
