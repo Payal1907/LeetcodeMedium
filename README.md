@@ -740,6 +740,7 @@
 | [0584-find-customer-referee](https://github.com/Payal1907/LeetcodeMedium/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/1317-monthly-transactions-i) |
+| [1390-average-selling-price](https://github.com/Payal1907/LeetcodeMedium/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Payal1907/LeetcodeMedium/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Payal1907/LeetcodeMedium/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Payal1907/LeetcodeMedium/tree/master/2087-confirmation-rate) |
