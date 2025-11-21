@@ -558,6 +558,7 @@
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
+| [3684-substring-matching-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Payal1907/LeetcodeMedium/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -802,6 +803,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Payal1907/LeetcodeMedium/tree/master/0686-repeated-string-match) |
 | [1524-string-matching-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1524-string-matching-in-an-array) |
+| [3684-substring-matching-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/3684-substring-matching-pattern) |
 ## Data Stream
 |  |
 | ------- |
