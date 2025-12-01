@@ -6,7 +6,8 @@ public:
     {
         for(int j=1;j<n;j++)
         {
-            dp[i][j]=dp[i-1][j]+dp[i][j-1];
+            dp[i][j]=dp[i-1][j]+dp[i][j-1]; //row select, col did not select + 
+            //col select row did not select
         }
     } 
     return dp[m-1][n-1];   
