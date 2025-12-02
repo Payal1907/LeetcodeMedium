@@ -67,6 +67,7 @@
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Payal1907/LeetcodeMedium/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/1130-last-stone-weight-ii) |
@@ -426,6 +427,7 @@
 | [0231-power-of-two](https://github.com/Payal1907/LeetcodeMedium/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Payal1907/LeetcodeMedium/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
