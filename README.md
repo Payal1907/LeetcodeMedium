@@ -385,6 +385,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Payal1907/LeetcodeMedium/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
@@ -816,4 +817,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Payal1907/LeetcodeMedium/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
