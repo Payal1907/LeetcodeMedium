@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Payal1907/LeetcodeMedium/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Payal1907/LeetcodeMedium/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0055-jump-game) |
@@ -251,6 +252,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Payal1907/LeetcodeMedium/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
@@ -298,6 +300,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
@@ -400,6 +403,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Payal1907/LeetcodeMedium/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
@@ -497,6 +501,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Payal1907/LeetcodeMedium/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0088-merge-sorted-array) |
