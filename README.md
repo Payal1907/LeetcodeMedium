@@ -107,6 +107,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Payal1907/LeetcodeMedium/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Payal1907/LeetcodeMedium/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3639-zero-array-transformation-i) |
@@ -362,6 +363,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Payal1907/LeetcodeMedium/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Payal1907/LeetcodeMedium/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Payal1907/LeetcodeMedium/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Payal1907/LeetcodeMedium/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Payal1907/LeetcodeMedium/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -639,6 +641,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Payal1907/LeetcodeMedium/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3583-count-special-triplets](https://github.com/Payal1907/LeetcodeMedium/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Payal1907/LeetcodeMedium/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
