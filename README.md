@@ -109,6 +109,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Payal1907/LeetcodeMedium/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Payal1907/LeetcodeMedium/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Payal1907/LeetcodeMedium/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Payal1907/LeetcodeMedium/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3639-zero-array-transformation-i) |
@@ -366,6 +367,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Payal1907/LeetcodeMedium/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Payal1907/LeetcodeMedium/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Payal1907/LeetcodeMedium/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Payal1907/LeetcodeMedium/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Payal1907/LeetcodeMedium/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -468,6 +470,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
+| [3606-coupon-code-validator](https://github.com/Payal1907/LeetcodeMedium/tree/master/3606-coupon-code-validator) |
 ## Recursion
 |  |
 | ------- |
@@ -574,6 +577,7 @@
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
+| [3606-coupon-code-validator](https://github.com/Payal1907/LeetcodeMedium/tree/master/3606-coupon-code-validator) |
 | [3684-substring-matching-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Payal1907/LeetcodeMedium/tree/master/3872-find-most-frequent-vowel-and-consonant) |
