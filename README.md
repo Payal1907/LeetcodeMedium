@@ -89,6 +89,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Payal1907/LeetcodeMedium/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Payal1907/LeetcodeMedium/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Payal1907/LeetcodeMedium/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -153,6 +154,7 @@
 | [1925-count-square-sum-triples](https://github.com/Payal1907/LeetcodeMedium/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Payal1907/LeetcodeMedium/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -324,6 +326,7 @@
 | [1250-longest-common-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Payal1907/LeetcodeMedium/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Hash Table
 |  |
 | ------- |
