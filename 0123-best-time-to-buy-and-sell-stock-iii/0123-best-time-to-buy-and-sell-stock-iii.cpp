@@ -10,9 +10,9 @@ public:
     for(int i=0;i<n;i++) 
     {
         buy1 = min(buy1,prices[i]);
-        profit1 = max(profit1,prices[i]-buy1);
-        buy2 = min(buy2,prices[i]-profit1);
-        profit2 = max(profit2,prices[i]-buy2);
+        profit1 = max(profit1,prices[i]-buy1); //reinvesting
+        buy2 = min(buy2,prices[i]-profit1); //abhi tk I,II,III ke almost same logic hai
+        profit2 = max(profit2,prices[i]-buy2); //reinvesting
     }
     return profit2;
     }
