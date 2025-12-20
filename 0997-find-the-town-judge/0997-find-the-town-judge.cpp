@@ -8,6 +8,7 @@ public:
         trusts[trust[i][0]]++;
         trusted[trust[i][1]]++;
     }
+    //kya pgl question me hi answer chipa tha trusts=0, trusted=n-1
     for(int i=1;i<=n;i++)
     {
         if(trusts[i]==0 && trusted[i]==n-1) return i;
