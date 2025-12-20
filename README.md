@@ -67,6 +67,7 @@
 | [0932-monotonic-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
@@ -579,6 +580,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Payal1907/LeetcodeMedium/tree/master/0686-repeated-string-match) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Payal1907/LeetcodeMedium/tree/master/1264-maximum-number-of-words-you-can-type) |
