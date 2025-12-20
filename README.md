@@ -69,6 +69,7 @@
 | [0940-fruit-into-baskets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/Payal1907/LeetcodeMedium/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -370,6 +371,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
 | [0940-fruit-into-baskets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0940-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/Payal1907/LeetcodeMedium/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Payal1907/LeetcodeMedium/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -845,6 +847,7 @@
 ## Graph
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Payal1907/LeetcodeMedium/tree/master/0997-find-the-town-judge) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
