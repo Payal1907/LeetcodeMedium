@@ -28,14 +28,6 @@ public:
     for(int i=0;i<dist.size();i++)
     {
         for(int j=0;j<dist.size();j++)
-            {
-                cout<<dist[i][j]<<" ";
-            }
-        cout<<endl;
-    }
-    for(int i=0;i<dist.size();i++)
-    {
-        for(int j=0;j<dist.size();j++)
         {
             if(dist[i][j]!=0 && dist[i][j]<=distanceThreshold)
             {
@@ -43,7 +35,6 @@ public:
             }
         }
     } 
-    for(auto num : neighbours) cout<<num<<" ";  
     int index=0;
     int mini = INT_MAX;
     for(int i=n-1;i>=0;i--)
