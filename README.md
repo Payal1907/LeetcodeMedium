@@ -611,6 +611,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Payal1907/LeetcodeMedium/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Payal1907/LeetcodeMedium/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
@@ -795,6 +796,7 @@
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1206-corporate-flight-bookings) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal1907/LeetcodeMedium/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Payal1907/LeetcodeMedium/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3639-zero-array-transformation-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3643-zero-array-transformation-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
