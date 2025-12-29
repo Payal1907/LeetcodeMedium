@@ -80,6 +80,7 @@
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1206-corporate-flight-bookings) |
 | [1319-unique-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/1319-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -412,6 +413,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -432,6 +434,7 @@
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0907-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal1907/LeetcodeMedium/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
