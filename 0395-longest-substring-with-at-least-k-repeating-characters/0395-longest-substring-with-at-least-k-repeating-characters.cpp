@@ -1,29 +1,20 @@
 class Solution {
 public:
-    bool isValid(int k, vector<int>& count)
-    {
-        int distinct = 0;
-        int atleastK = 0;
-        for(int ch=0;ch<26;ch++)
-        {
-            if(count[ch]>0) distinct++;
-            if(count[ch]>=k) atleastK++;
-        }
-        return distinct==atleastK;
-    }
     int longestSubstring(string s, int k) {
     int n = s.size();
-    if(n==0||k>n) return 0;
     int res = 0;
+    vector<int> count(26,0);
+    for(auto ch : s) count[ch -'a']++;
     for(int i=0;i<n;i++)
     {
-        vector<int> count(26,0);
-        for(int j=i;j<n;j++)
+        if(count[s[i]-'a']<k) //jaise hi koi invalid element aya
+        //we check on either left or right
         {
-            count[s[j]-'a']++;
-            if(isValid(k,count)) res=max(res,j-i+1);
+            int l = longestSubstring(s.substr(0,i),k);
+            int r = longestSubstring(s.substr(i+1),k);
+            return max(l,r);
         }
     }
-    return res;
+    return s.size();
     }
 };
