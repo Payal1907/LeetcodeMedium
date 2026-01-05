@@ -630,6 +630,7 @@
 | [1660-thousand-separator](https://github.com/Payal1907/LeetcodeMedium/tree/master/1660-thousand-separator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Payal1907/LeetcodeMedium/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Payal1907/LeetcodeMedium/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
