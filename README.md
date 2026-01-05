@@ -24,6 +24,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Payal1907/LeetcodeMedium/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Payal1907/LeetcodeMedium/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0090-subsets-ii) |
@@ -304,6 +305,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Payal1907/LeetcodeMedium/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0099-recover-binary-search-tree) |
@@ -421,6 +423,7 @@
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Payal1907/LeetcodeMedium/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
@@ -594,6 +597,7 @@
 | [0058-length-of-last-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Payal1907/LeetcodeMedium/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0151-reverse-words-in-a-string) |
@@ -650,6 +654,7 @@
 | [0051-n-queens](https://github.com/Payal1907/LeetcodeMedium/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Payal1907/LeetcodeMedium/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
