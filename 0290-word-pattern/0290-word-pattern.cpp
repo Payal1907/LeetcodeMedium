@@ -2,17 +2,16 @@ class Solution {
 public:
     bool wordPattern(string pattern, string s) {
         vector<string> words;
-        int i = 0;
-        while(i<s.size()){
-            string word = "";
-            while(s[i]==' ' && i<s.size()){
-                i++;
+        string word = "";
+        for(int i=0;i<s.size();i++){
+            if(s[i]==' '){
+                words.push_back(word);
+                word.clear();
             }
-            while(s[i]!=' ' && i<s.size()) {
-                word.push_back(s[i++]);
-            }
-            if(!word.empty())words.push_back(word);
+            else word+=s[i];
         }
+        for(auto word : words) cout<<word;
+        words.push_back(word);
         if(words.size()!=pattern.size()) return false;
         unordered_map<string,char> w2c;
         //pehle tune ek map leke check kiya, pr tune vice versa me check nai kiya
