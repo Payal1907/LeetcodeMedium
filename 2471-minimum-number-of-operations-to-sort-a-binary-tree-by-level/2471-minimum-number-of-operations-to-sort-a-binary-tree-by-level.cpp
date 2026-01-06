@@ -23,6 +23,8 @@ public:
             if(mp[i].first!=level[i]){
                 swap(mp[mp[i].second],mp[i]);
                 i--;
+            //you fix one element, but you bring in a new, unknown element at position i.
+            //That new element might still be incorrect.
                 swaps++;
             }
         }
