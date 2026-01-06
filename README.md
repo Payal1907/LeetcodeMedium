@@ -226,6 +226,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Payal1907/LeetcodeMedium/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Payal1907/LeetcodeMedium/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Payal1907/LeetcodeMedium/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Stack
 |  |
 | ------- |
