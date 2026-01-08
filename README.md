@@ -101,6 +101,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Payal1907/LeetcodeMedium/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/1975-maximum-matrix-sum) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Payal1907/LeetcodeMedium/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2054-two-best-non-overlapping-events](https://github.com/Payal1907/LeetcodeMedium/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Payal1907/LeetcodeMedium/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -227,6 +228,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Payal1907/LeetcodeMedium/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Payal1907/LeetcodeMedium/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
@@ -290,6 +292,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Payal1907/LeetcodeMedium/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Payal1907/LeetcodeMedium/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Stack
@@ -343,6 +346,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Payal1907/LeetcodeMedium/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
 |  |
