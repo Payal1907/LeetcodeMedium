@@ -88,6 +88,7 @@
 | [1390-four-divisors](https://github.com/Payal1907/LeetcodeMedium/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal1907/LeetcodeMedium/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -374,6 +375,7 @@
 | [1250-longest-common-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Payal1907/LeetcodeMedium/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
