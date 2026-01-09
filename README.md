@@ -225,6 +225,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Payal1907/LeetcodeMedium/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -252,6 +253,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Payal1907/LeetcodeMedium/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Payal1907/LeetcodeMedium/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -292,6 +294,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Payal1907/LeetcodeMedium/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -346,6 +349,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Payal1907/LeetcodeMedium/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Payal1907/LeetcodeMedium/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -411,6 +415,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Payal1907/LeetcodeMedium/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Payal1907/LeetcodeMedium/tree/master/0997-find-the-town-judge) |
