@@ -84,6 +84,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/1130-last-stone-weight-ii) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1206-corporate-flight-bookings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Payal1907/LeetcodeMedium/tree/master/1390-four-divisors) |
@@ -165,6 +166,7 @@
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Payal1907/LeetcodeMedium/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -952,6 +954,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1266-minimum-time-visiting-all-points) |
 ## Interactive
 |  |
 | ------- |
