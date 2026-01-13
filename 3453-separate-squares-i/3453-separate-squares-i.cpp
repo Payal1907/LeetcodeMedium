@@ -3,6 +3,7 @@ public:
     double Ab(vector<vector<int>>& squares, double y){
         double area = 0.0;
         for(const auto& sq : squares){ //dont copy every time
+        //COPYING each square every iteration (very expensive)
             double bottom = sq[1];
             double side = sq[2];
             double top = bottom+side;
