@@ -123,6 +123,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Payal1907/LeetcodeMedium/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3453-separate-squares-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -493,6 +494,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/Payal1907/LeetcodeMedium/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3453-separate-squares-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-separate-squares-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
