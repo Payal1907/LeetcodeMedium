@@ -7,8 +7,6 @@ public:
         for(auto num : nums2){
             if(mp.count(num)) st.insert(num);
         }
-        vector<int> ans;
-        for(auto s : st) ans.push_back(s);
-        return ans;
+        return vector<int>(st.begin(),st.end());
     }
 };
