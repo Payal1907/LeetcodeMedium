@@ -169,6 +169,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
+| [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1266-minimum-time-visiting-all-points) |
@@ -914,6 +915,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0204-count-primes) |
+| [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3936-split-array-by-prime-indices](https://github.com/Payal1907/LeetcodeMedium/tree/master/3936-split-array-by-prime-indices) |
 ## Brainteaser
@@ -968,6 +970,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
+| [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1266-minimum-time-visiting-all-points) |
 ## Interactive
 |  |
