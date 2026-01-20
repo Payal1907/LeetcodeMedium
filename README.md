@@ -127,6 +127,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Payal1907/LeetcodeMedium/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -548,6 +549,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Payal1907/LeetcodeMedium/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
