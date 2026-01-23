@@ -6,16 +6,14 @@ public:
         mp[ch]++;
      } 
      int count = 0;
-     bool hasLeft=false;
      for(auto p : mp){
         if(p.second%2==0){
             count+=p.second;
         }
         else{ //similars in odd count "ccc"
         count+=p.second-1;
-        hasLeft=true;
         }
      }
-     return (hasLeft)?count+1:count;
+     return (count<s.size() && count%2==0)?count+1:count;
     }
 };
