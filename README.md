@@ -628,6 +628,7 @@
 | [0042-trapping-rain-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
@@ -811,6 +812,7 @@
 | [0002-add-two-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Payal1907/LeetcodeMedium/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
