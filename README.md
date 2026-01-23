@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Payal1907/LeetcodeMedium/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
