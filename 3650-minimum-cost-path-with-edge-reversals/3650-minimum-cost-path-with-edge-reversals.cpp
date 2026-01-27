@@ -12,10 +12,10 @@ public:
         pq.pop();
         if(visited[u]) continue;
         visited[u]=true;
-        for(auto [v,w] : graph[u]){
-            if(dist[u]+w<dist[v]){
-                dist[v]=dist[u]+w;
-                pq.push({-dist[v],v});
+        for(auto [v,w] : graph[u]){ //jo min element hai uske adj dhoondhenge
+            if(dist[u]+w < dist[v]){
+                dist[v] = dist[u]+w;
+                pq.push({-dist[v],v}); //becomes min heap
             }
         }
     }
