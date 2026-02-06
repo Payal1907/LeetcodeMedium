@@ -144,6 +144,7 @@
 | [3606-coupon-code-validator](https://github.com/Payal1907/LeetcodeMedium/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -597,6 +598,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Payal1907/LeetcodeMedium/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Payal1907/LeetcodeMedium/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/Payal1907/LeetcodeMedium/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3634-minimum-removals-to-balance-array) |
 ## Recursion
 |  |
 | ------- |
@@ -824,6 +826,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
 | ------- |
