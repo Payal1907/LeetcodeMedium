@@ -710,6 +710,7 @@
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Payal1907/LeetcodeMedium/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Payal1907/LeetcodeMedium/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Payal1907/LeetcodeMedium/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
