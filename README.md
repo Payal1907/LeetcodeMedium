@@ -180,6 +180,7 @@
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
+| [0878-nth-magical-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0878-nth-magical-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1266-minimum-time-visiting-all-points) |
@@ -506,6 +507,7 @@
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
+| [0878-nth-magical-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0878-nth-magical-number) |
 | [0907-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0907-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
