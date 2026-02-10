@@ -2,13 +2,11 @@ class Solution {
 public:
     int dominantIndices(vector<int>& nums) {
     int count = 0;
+    int sum = 0;
     int n = nums.size();
-    for(int i=0;i<n-1;i++){
-        int sum = 0;
-        for(int j=i+1;j<n;j++){
-            sum+=nums[j];
-        }
-        if(sum/(n-(i+1))<nums[i]) count++;
+    for(int i=n-1;i>0;i--){
+        sum+=nums[i];
+        if(nums[i-1]>sum/(n-i)) ++count;      
     }   
     return count;
     }
