@@ -4,31 +4,61 @@ public:
 //numbers ko rkhne ke liye
 //notes bna lena iske
     string removeKdigits(string num, int k) {
-        stack<char> st;
-        string res="";
-        for(char c : num)
-        {
-            while(!st.empty() && k>0 && st.top()>c)
-            {
-                st.pop();
+        string s = "";
+        for(char c : num){
+            while(s.length() && k>0 && s.back()>c){
+                s.pop_back();
                 k--;
             }
-            st.push(c);
-        }  
-        while(k>0 && !st.empty())
-        {
-            st.pop();
+            s.push_back(c);
+        }
+        while(s.length() && k>0){
+            s.pop_back();
             k--;
         }
-        while(!st.empty())
-        {
-            res.push_back(st.top());
-            st.pop();
-        }
-        reverse(res.begin(),res.end());
-        int i=0;
-        while(i<res.size() && res[i]=='0') i++;
-        res=res.substr(i);
-        return res.empty()?"0":res;
+        int i = 0;
+        while(s[i]=='0') i++;
+        s=s.substr(i);
+        return s==""?"0":s;
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        // stack<char> st;
+        // string res="";
+        // for(char c : num)
+        // {
+        //     while(!st.empty() && k>0 && st.top()>c)
+        //     {
+        //         st.pop();
+        //         k--;
+        //     }
+        //     st.push(c);
+        // }  
+        // while(k>0 && !st.empty())
+        // {
+        //     st.pop();
+        //     k--;
+        // }
+        // while(!st.empty())
+        // {
+        //     res.push_back(st.top());
+        //     st.pop();
+        // }
+        // reverse(res.begin(),res.end());
+        // int i=0;
+        // while(i<res.size() && res[i]=='0') i++;
+        // res=res.substr(i);
+        // return res.empty()?"0":res;
     }
 };
