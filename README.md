@@ -180,6 +180,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Payal1907/LeetcodeMedium/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
@@ -562,6 +563,7 @@
 | [0338-counting-bits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Payal1907/LeetcodeMedium/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
