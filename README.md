@@ -71,6 +71,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/Payal1907/LeetcodeMedium/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Payal1907/LeetcodeMedium/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -597,6 +598,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
 | [0853-car-fleet](https://github.com/Payal1907/LeetcodeMedium/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/Payal1907/LeetcodeMedium/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -677,6 +679,7 @@
 | [0475-heaters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0696-count-binary-substrings) |
+| [0881-boats-to-save-people](https://github.com/Payal1907/LeetcodeMedium/tree/master/0881-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
@@ -803,6 +806,7 @@
 | [0605-can-place-flowers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/Payal1907/LeetcodeMedium/tree/master/0881-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
