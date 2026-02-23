@@ -162,6 +162,7 @@
 | [0007-reverse-integer](https://github.com/Payal1907/LeetcodeMedium/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Payal1907/LeetcodeMedium/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
@@ -633,6 +634,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Payal1907/LeetcodeMedium/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
@@ -686,6 +688,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Payal1907/LeetcodeMedium/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0076-minimum-window-substring) |
