@@ -7,7 +7,6 @@ public:
         string code = s.substr(i,k);
         st.insert(code);
     }   
-    for(auto code : st) cout<<code<<endl;
     int total = (int)pow(2,k);
     return total==st.size(); 
     }
