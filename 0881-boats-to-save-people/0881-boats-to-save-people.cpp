@@ -11,15 +11,6 @@ public:
         j--;
         boats++;
     }
-
-
-
-    // for(int i=0;i<people.size()-1;i+=2){
-    //     if(people[i]+people[i+1]>limit){
-    //         boats+=2;
-    //     }
-    //     else boats++;
-    // }
     return boats;
     }
 };
