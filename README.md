@@ -62,6 +62,7 @@
 | [0475-heaters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
+| [0587-erect-the-fence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +185,7 @@
 | [0367-valid-perfect-square](https://github.com/Payal1907/LeetcodeMedium/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0507-perfect-number) |
+| [0587-erect-the-fence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Payal1907/LeetcodeMedium/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
@@ -1055,6 +1057,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1266-minimum-time-visiting-all-points) |
