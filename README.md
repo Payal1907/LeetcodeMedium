@@ -704,6 +704,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Payal1907/LeetcodeMedium/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Payal1907/LeetcodeMedium/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
