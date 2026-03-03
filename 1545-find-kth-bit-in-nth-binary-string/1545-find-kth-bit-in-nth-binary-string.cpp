@@ -1,23 +1,12 @@
 class Solution {
-public:
-    string invert(string s){
-        string ans = "";
-        for(auto ch : s){
-            ans+=((ch=='0')?'1':'0');
-        }
-        return ans;
-    }
-    string reversed(string s){
-        reverse(s.begin(),s.end());
-        return s;
-    }
+public: 
     char findKthBit(int n, int k) {
-        string prev = "0";
-        for(int i=2;i<=n;i++){
-            string neww;
-            neww=prev+"1"+reversed(invert(prev));
-            prev=neww;
-        }
-        return prev[k-1];
+        if(n==1) return '0';
+        int length = (1<<n)-1;
+        int mid = (length+1)/2;
+        if(k==mid) return '1';
+        if(k<mid) return findKthBit(n-1,k);
+        char ch = findKthBit(n-1,length-k+1);
+        return ch=='0'?'1':'0';
     }
 };
