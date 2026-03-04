@@ -157,6 +157,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Payal1907/LeetcodeMedium/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3788-maximum-score-of-a-split](https://github.com/Payal1907/LeetcodeMedium/tree/master/3788-maximum-score-of-a-split) |
 | [3790-fruits-into-baskets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Payal1907/LeetcodeMedium/tree/master/3839-number-of-prefix-connected-groups) |
@@ -975,6 +976,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3719-longest-balanced-subarray-i) |
+| [3788-maximum-score-of-a-split](https://github.com/Payal1907/LeetcodeMedium/tree/master/3788-maximum-score-of-a-split) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Database
 |  |
