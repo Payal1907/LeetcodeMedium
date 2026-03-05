@@ -1,36 +1,31 @@
 class Solution {
 public:
-    int findNextGreaterMin(const vector<int>& nums, int index) {
-    int target = nums[index];
-    int nextGreater = INT_MAX; 
-    for (int i = index + 1; i < nums.size(); i++) {
-        if (nums[i] > target) {
-            nextGreater = min(nextGreater, nums[i]);
+    int findNextGreaterMin(vector<int> nums, int index) {
+        int mn = INT_MAX;
+        int n = nums.size();
+        for(int i=index+1;i<n;i++){
+            if(nums[i]>nums[index]){
+                mn = min(mn,nums[i]);
+            }
         }
-    }
-    return (nextGreater == INT_MAX) ? -1 : nextGreater; 
+        return mn;
 }
 
 void nextPermutation(vector<int>& nums) {
-    int i = -1, j;
-    for (j = nums.size() - 1; j > 0; j--) {
-        if (nums[j] > nums[j - 1]) {
-            i = j - 1;
-            break;
-        }
+    int n = nums.size();
+    vector<int> rem;
+    for(int i=n-1;i>=0;i--){
+        int ngm = findNextGreaterMin(nums,i);
+        if(ngm==INT_MAX) continue;
+        for(int j=n-1;j>i;j--){
+            if(nums[j]==ngm){
+                std::swap(nums[i],nums[j]);
+                break;
+            }
+        } 
+        sort(nums.begin()+i+1,nums.end());
+        return;     
     }
-    if(i==-1) reverse(nums.begin(),nums.end()); 
-    else
-    {
-        int min_max = findNextGreaterMin(nums, i);
-    for (j = nums.size() - 1; j > i; j--) {  
-        if (nums[j] == min_max) {
-            swap(nums[i], nums[j]);
-            break;
-        }
-    }
-    sort(nums.begin() + i + 1, nums.end());
-    }
+    sort(nums.begin(),nums.end());
 }
-
 };
