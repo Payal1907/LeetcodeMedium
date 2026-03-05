@@ -73,6 +73,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/Payal1907/LeetcodeMedium/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Payal1907/LeetcodeMedium/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0932-monotonic-array) |
@@ -193,6 +194,7 @@
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
+| [0877-stone-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0878-nth-magical-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -417,6 +419,7 @@
 | [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0877-stone-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Payal1907/LeetcodeMedium/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/1130-last-stone-weight-ii) |
@@ -1038,6 +1041,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
 |  |
