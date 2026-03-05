@@ -13,7 +13,6 @@ public:
 
 void nextPermutation(vector<int>& nums) {
     int n = nums.size();
-    vector<int> rem;
     for(int i=n-1;i>=0;i--){
         int ngm = findNextGreaterMin(nums,i);
         if(ngm==INT_MAX) continue;
