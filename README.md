@@ -118,6 +118,7 @@
 | [1929-concatenation-of-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Payal1907/LeetcodeMedium/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Payal1907/LeetcodeMedium/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2054-two-best-non-overlapping-events](https://github.com/Payal1907/LeetcodeMedium/tree/master/2054-two-best-non-overlapping-events) |
@@ -476,6 +477,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Payal1907/LeetcodeMedium/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Payal1907/LeetcodeMedium/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1980-find-unique-binary-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2388-replace-elements-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2388-replace-elements-in-an-array) |
@@ -765,6 +767,7 @@
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Payal1907/LeetcodeMedium/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Payal1907/LeetcodeMedium/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Payal1907/LeetcodeMedium/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1980-find-unique-binary-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Payal1907/LeetcodeMedium/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Payal1907/LeetcodeMedium/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -797,6 +800,7 @@
 | [0090-subsets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
+| [1980-find-unique-binary-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
