@@ -225,6 +225,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Payal1907/LeetcodeMedium/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Payal1907/LeetcodeMedium/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Payal1907/LeetcodeMedium/tree/master/3830-find-closest-person) |
 | [3936-split-array-by-prime-indices](https://github.com/Payal1907/LeetcodeMedium/tree/master/3936-split-array-by-prime-indices) |
@@ -435,6 +436,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Payal1907/LeetcodeMedium/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Payal1907/LeetcodeMedium/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Payal1907/LeetcodeMedium/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Payal1907/LeetcodeMedium/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
