@@ -63,6 +63,7 @@
 | [0475-heaters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0525-contiguous-array) |
 | [0587-erect-the-fence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
@@ -463,6 +464,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0525-contiguous-array) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -983,6 +985,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1206-corporate-flight-bookings) |
