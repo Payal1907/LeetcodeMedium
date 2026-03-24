@@ -1017,6 +1017,7 @@
 | [1317-monthly-transactions-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/Payal1907/LeetcodeMedium/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Payal1907/LeetcodeMedium/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Payal1907/LeetcodeMedium/tree/master/1757-recyclable-and-low-fat-products) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Payal1907/LeetcodeMedium/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Payal1907/LeetcodeMedium/tree/master/2087-confirmation-rate) |
 ## Quickselect
