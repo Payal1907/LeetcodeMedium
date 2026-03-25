@@ -17,7 +17,7 @@ public:
         if(tsum-rsum==rsum) return true;
     } 
     long long csum = 0;  
-    for(int j=0;j<m;j++){
+    for(int j=0;j<m-1;j++){
         long long col = 0;
         for(int i=0;i<n;i++){
             col+=grid[i][j];
