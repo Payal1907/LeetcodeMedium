@@ -131,6 +131,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Payal1907/LeetcodeMedium/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2388-replace-elements-in-an-array) |
@@ -221,6 +222,7 @@
 | [2050-count-good-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Payal1907/LeetcodeMedium/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
@@ -696,6 +698,7 @@
 | [1642-water-bottles](https://github.com/Payal1907/LeetcodeMedium/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -998,6 +1001,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Payal1907/LeetcodeMedium/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Payal1907/LeetcodeMedium/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1070,6 +1074,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0204-count-primes) |
 | [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3936-split-array-by-prime-indices](https://github.com/Payal1907/LeetcodeMedium/tree/master/3936-split-array-by-prime-indices) |
 ## Brainteaser
