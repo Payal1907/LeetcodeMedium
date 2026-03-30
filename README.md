@@ -301,6 +301,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Payal1907/LeetcodeMedium/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Payal1907/LeetcodeMedium/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -402,6 +403,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Payal1907/LeetcodeMedium/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -437,6 +439,7 @@
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0435-non-overlapping-intervals) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Payal1907/LeetcodeMedium/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -949,6 +952,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0407-trapping-rain-water-ii) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1917-maximum-average-pass-ratio](https://github.com/Payal1907/LeetcodeMedium/tree/master/1917-maximum-average-pass-ratio) |
@@ -1131,10 +1135,12 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Payal1907/LeetcodeMedium/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal1907/LeetcodeMedium/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal1907/LeetcodeMedium/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
