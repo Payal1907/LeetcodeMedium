@@ -39,6 +39,7 @@
 | [0134-gas-station](https://github.com/Payal1907/LeetcodeMedium/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Payal1907/LeetcodeMedium/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Payal1907/LeetcodeMedium/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Payal1907/LeetcodeMedium/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -189,6 +190,7 @@
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Payal1907/LeetcodeMedium/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Payal1907/LeetcodeMedium/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Payal1907/LeetcodeMedium/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0172-factorial-trailing-zeroes) |
@@ -468,6 +470,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/Payal1907/LeetcodeMedium/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Payal1907/LeetcodeMedium/tree/master/0187-repeated-dna-sequences) |
@@ -1129,6 +1132,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Payal1907/LeetcodeMedium/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Payal1907/LeetcodeMedium/tree/master/0830-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/Payal1907/LeetcodeMedium/tree/master/0858-mirror-reflection) |
