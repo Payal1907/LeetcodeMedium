@@ -1,24 +1,20 @@
 class Solution {
 public:
     int minTaps(int n, vector<int>& ranges) {
-    vector<vector<int>> rangess;
+    vector<int> mxr(n+1,0);
     for(int i=0;i<=n;i++){
-        rangess.push_back({i-ranges[i],i+ranges[i]});
-    }   
-    sort(rangess.begin(),rangess.end());
-    int size = rangess.size();
-    int cnt = 0;
-    int curr = 0, farthest = 0, i=0;
-    while(curr<n){
-    while(i<size && rangess[i][0]<=curr){
-        farthest=max(farthest,rangess[i][1]);
-        i++;
+        int left = max(0,i-ranges[i]);
+        mxr[left]=max(mxr[left],i+ranges[i]);
     }
-    if(farthest==curr) return -1;
-    cnt++;
-    curr=farthest;
+    int end = 0, farthest=0, cnt=0;
+    for(int i=0;i<=n;i++){
+        if(i>end){
+            if(farthest<=end) return -1;
+            end=farthest;
+            cnt++;
+        }
+        farthest=max(farthest,mxr[i]);
     }
     return cnt;
-    
     }
 };
