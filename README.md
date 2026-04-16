@@ -855,6 +855,7 @@
 | [3684-substring-matching-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/3684-substring-matching-pattern) |
 | [3713-longest-balanced-substring-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3798-largest-even-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/3798-largest-even-number) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Payal1907/LeetcodeMedium/tree/master/3839-number-of-prefix-connected-groups) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Payal1907/LeetcodeMedium/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
