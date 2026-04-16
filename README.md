@@ -801,6 +801,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/Payal1907/LeetcodeMedium/tree/master/0482-license-key-formatting) |
 | [0647-palindromic-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Payal1907/LeetcodeMedium/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/Payal1907/LeetcodeMedium/tree/master/0686-repeated-string-match) |
