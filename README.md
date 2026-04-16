@@ -498,6 +498,7 @@
 | [0290-word-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Payal1907/LeetcodeMedium/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Payal1907/LeetcodeMedium/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Payal1907/LeetcodeMedium/tree/master/0424-longest-repeating-character-replacement) |
@@ -794,6 +795,7 @@
 | [0299-bulls-and-cows](https://github.com/Payal1907/LeetcodeMedium/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Payal1907/LeetcodeMedium/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -937,6 +939,7 @@
 | [0169-majority-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Payal1907/LeetcodeMedium/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Payal1907/LeetcodeMedium/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1510-find-lucky-integer-in-an-array) |
