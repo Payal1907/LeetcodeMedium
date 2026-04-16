@@ -754,6 +754,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Payal1907/LeetcodeMedium/tree/master/0443-string-compression) |
@@ -792,6 +793,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Payal1907/LeetcodeMedium/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
