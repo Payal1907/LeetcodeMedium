@@ -3,8 +3,7 @@ public:
     int reverseNumber(int n){
         int num = 0;
         while(n){
-            int digit = n%10;
-            num=num*10+digit;
+            num=num*10+n%10;
             n=n/10;
         }
         return num;
