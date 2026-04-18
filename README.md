@@ -146,6 +146,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Payal1907/LeetcodeMedium/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Payal1907/LeetcodeMedium/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2718-sum-of-matrix-after-queries](https://github.com/Payal1907/LeetcodeMedium/tree/master/2718-sum-of-matrix-after-queries) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Payal1907/LeetcodeMedium/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Payal1907/LeetcodeMedium/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -534,6 +535,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
+| [2718-sum-of-matrix-after-queries](https://github.com/Payal1907/LeetcodeMedium/tree/master/2718-sum-of-matrix-after-queries) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Payal1907/LeetcodeMedium/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Payal1907/LeetcodeMedium/tree/master/3242-count-elements-with-maximum-frequency) |
