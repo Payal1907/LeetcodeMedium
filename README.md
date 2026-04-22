@@ -77,6 +77,7 @@
 | [0605-can-place-flowers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Payal1907/LeetcodeMedium/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Payal1907/LeetcodeMedium/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Payal1907/LeetcodeMedium/tree/master/0739-daily-temperatures) |
@@ -595,6 +596,7 @@
 | [0475-heaters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/Payal1907/LeetcodeMedium/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0878-nth-magical-number) |
