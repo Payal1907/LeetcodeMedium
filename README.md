@@ -243,6 +243,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Payal1907/LeetcodeMedium/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Payal1907/LeetcodeMedium/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/3371-harshad-number) |
@@ -868,6 +869,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Payal1907/LeetcodeMedium/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Payal1907/LeetcodeMedium/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
