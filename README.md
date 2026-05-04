@@ -453,6 +453,7 @@
 | [0064-minimum-path-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Payal1907/LeetcodeMedium/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -804,6 +805,7 @@
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Payal1907/LeetcodeMedium/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Payal1907/LeetcodeMedium/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0151-reverse-words-in-a-string) |
