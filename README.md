@@ -56,6 +56,7 @@
 | [0229-majority-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Payal1907/LeetcodeMedium/tree/master/0322-coin-change) |
@@ -778,6 +779,7 @@
 | [0165-compare-version-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0349-intersection-of-two-arrays) |
