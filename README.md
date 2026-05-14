@@ -124,6 +124,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal1907/LeetcodeMedium/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Payal1907/LeetcodeMedium/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1706-min-cost-to-connect-all-points) |
 | [1813-maximum-erasure-value](https://github.com/Payal1907/LeetcodeMedium/tree/master/1813-maximum-erasure-value) |
@@ -702,6 +703,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Payal1907/LeetcodeMedium/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Payal1907/LeetcodeMedium/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Payal1907/LeetcodeMedium/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Payal1907/LeetcodeMedium/tree/master/2054-two-best-non-overlapping-events) |
@@ -950,6 +952,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Payal1907/LeetcodeMedium/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Payal1907/LeetcodeMedium/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Payal1907/LeetcodeMedium/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
