@@ -158,6 +158,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Payal1907/LeetcodeMedium/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Payal1907/LeetcodeMedium/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Payal1907/LeetcodeMedium/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Payal1907/LeetcodeMedium/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Payal1907/LeetcodeMedium/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Payal1907/LeetcodeMedium/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -550,6 +551,7 @@
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
 | [2718-sum-of-matrix-after-queries](https://github.com/Payal1907/LeetcodeMedium/tree/master/2718-sum-of-matrix-after-queries) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Payal1907/LeetcodeMedium/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Payal1907/LeetcodeMedium/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Payal1907/LeetcodeMedium/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -881,6 +883,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Payal1907/LeetcodeMedium/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Payal1907/LeetcodeMedium/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Payal1907/LeetcodeMedium/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -1243,4 +1246,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Payal1907/LeetcodeMedium/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
