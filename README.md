@@ -553,6 +553,7 @@
 | [2718-sum-of-matrix-after-queries](https://github.com/Payal1907/LeetcodeMedium/tree/master/2718-sum-of-matrix-after-queries) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Payal1907/LeetcodeMedium/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Payal1907/LeetcodeMedium/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Payal1907/LeetcodeMedium/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -887,6 +888,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Payal1907/LeetcodeMedium/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Payal1907/LeetcodeMedium/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3396-valid-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
