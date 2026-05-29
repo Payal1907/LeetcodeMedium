@@ -74,6 +74,7 @@
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/Payal1907/LeetcodeMedium/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0525-contiguous-array) |
