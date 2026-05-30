@@ -1,21 +1,22 @@
 class Solution {
 public:
-    void func(int index, vector<int> subset,vector<vector<int>>& ans,vector<int> nums, int n)
-    {
-        ans.push_back(subset);
-        for(int i=index;i<n;i++)
-        {
-            if(i>index && nums[i]==nums[i-1]) continue;
-            subset.push_back(nums[i]);
-            func(i+1,subset,ans,nums,n);
-            subset.pop_back();
-        }
-    }
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-    int n = nums.size();
-    sort(nums.begin(), nums.end());
     vector<vector<int>> ans;
-    func(0,{},ans,nums,n);
-    return ans;    
+    vector<int> curr;
+    void helper(int index, vector<int>& nums, vector<int> curr){
+        if(index==nums.size()){
+            ans.push_back(curr);
+            return;
+        }
+        curr.push_back(nums[index]);
+        helper(index+1,nums,curr);
+        curr.pop_back();
+        int i = index+1;
+        while(i<nums.size() && nums[i]==nums[index]) i++;
+        helper(i,nums,curr);
+    }
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {   
+        sort(nums.begin(),nums.end());
+        helper(0,nums,curr);
+        return ans;
     }
 };
