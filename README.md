@@ -213,6 +213,7 @@
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Payal1907/LeetcodeMedium/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Payal1907/LeetcodeMedium/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Payal1907/LeetcodeMedium/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Payal1907/LeetcodeMedium/tree/master/0168-excel-sheet-column-title) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Payal1907/LeetcodeMedium/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0100-same-tree) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Payal1907/LeetcodeMedium/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0100-same-tree) |
@@ -467,6 +470,7 @@
 | [0070-climbing-stairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Payal1907/LeetcodeMedium/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Payal1907/LeetcodeMedium/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -954,6 +958,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Payal1907/LeetcodeMedium/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
