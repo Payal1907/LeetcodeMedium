@@ -162,6 +162,7 @@
 | [2718-sum-of-matrix-after-queries](https://github.com/Payal1907/LeetcodeMedium/tree/master/2718-sum-of-matrix-after-queries) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Payal1907/LeetcodeMedium/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Payal1907/LeetcodeMedium/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Payal1907/LeetcodeMedium/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Payal1907/LeetcodeMedium/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1051,6 +1052,7 @@
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Payal1907/LeetcodeMedium/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Payal1907/LeetcodeMedium/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Payal1907/LeetcodeMedium/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Payal1907/LeetcodeMedium/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3634-minimum-removals-to-balance-array) |
