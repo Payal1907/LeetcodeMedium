@@ -9,10 +9,12 @@ public:
     while(i<n){
         if(nums[i]==mx) cnt++;
         while(cnt>=k){
-            if(nums[j]==mx) cnt--;
+            ans+=n-i;
+            if(nums[j]==mx){
+                cnt--;
+            }
             j++;
         }
-        ans+=j;
         i++;
     }   
     return ans; 
