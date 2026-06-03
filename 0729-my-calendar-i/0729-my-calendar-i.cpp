@@ -10,7 +10,7 @@ public:
         for(auto p : mp){
             int start = p.first;
             int end = p.second;
-            if(endTime>start && startTime<end){
+            if(endTime>start && startTime<end){ //overlap
                 acc=true;
             }
         }
