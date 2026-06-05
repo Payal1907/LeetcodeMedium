@@ -8,12 +8,8 @@ public:
         while(!st.empty() && temp[i]>=temp[st.top()]){
             st.pop();
         }
-        if(!st.empty()) nge[i]=st.top();
+        if(!st.empty()) nge[i]=st.top()-i;
         st.push(i);
-    }
-    for(int i=0;i<n;i++){
-        nge[i]-=i;
-        if(nge[i]<0) nge[i]=0;
     }
     return nge;
     }
