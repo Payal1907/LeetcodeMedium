@@ -774,6 +774,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Payal1907/LeetcodeMedium/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Payal1907/LeetcodeMedium/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1090,6 +1091,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
