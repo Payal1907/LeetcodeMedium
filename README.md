@@ -153,6 +153,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/Payal1907/LeetcodeMedium/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Payal1907/LeetcodeMedium/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Payal1907/LeetcodeMedium/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -798,6 +799,7 @@
 | [1642-water-bottles](https://github.com/Payal1907/LeetcodeMedium/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Payal1907/LeetcodeMedium/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Payal1907/LeetcodeMedium/tree/master/2288-count-operations-to-obtain-zero) |
@@ -846,6 +848,7 @@
 | [0696-count-binary-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/Payal1907/LeetcodeMedium/tree/master/0881-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Payal1907/LeetcodeMedium/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
