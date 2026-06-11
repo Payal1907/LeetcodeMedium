@@ -149,6 +149,7 @@
 | [2049-count-nodes-with-the-highest-score](https://github.com/Payal1907/LeetcodeMedium/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2054-two-best-non-overlapping-events](https://github.com/Payal1907/LeetcodeMedium/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2104-sum-of-subarray-ranges](https://github.com/Payal1907/LeetcodeMedium/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Payal1907/LeetcodeMedium/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/Payal1907/LeetcodeMedium/tree/master/2126-destroying-asteroids) |
@@ -429,6 +430,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Payal1907/LeetcodeMedium/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2104-sum-of-subarray-ranges](https://github.com/Payal1907/LeetcodeMedium/tree/master/2104-sum-of-subarray-ranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -678,6 +680,7 @@
 | [0937-online-stock-span](https://github.com/Payal1907/LeetcodeMedium/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Payal1907/LeetcodeMedium/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/Payal1907/LeetcodeMedium/tree/master/2104-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
 | ------- |
