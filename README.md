@@ -790,6 +790,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Payal1907/LeetcodeMedium/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0649-dota2-senate) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -897,6 +898,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Payal1907/LeetcodeMedium/tree/master/0482-license-key-formatting) |
 | [0647-palindromic-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Payal1907/LeetcodeMedium/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/Payal1907/LeetcodeMedium/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0696-count-binary-substrings) |
@@ -1016,6 +1018,7 @@
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Payal1907/LeetcodeMedium/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/0778-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Payal1907/LeetcodeMedium/tree/master/0881-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0955-delete-columns-to-make-sorted-ii) |
