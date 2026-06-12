@@ -459,6 +459,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Payal1907/LeetcodeMedium/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Payal1907/LeetcodeMedium/tree/master/0563-binary-tree-tilt) |
@@ -1105,6 +1106,7 @@
 | [0141-linked-list-cycle](https://github.com/Payal1907/LeetcodeMedium/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Payal1907/LeetcodeMedium/tree/master/1472-design-browser-history) |
@@ -1343,5 +1345,6 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Payal1907/LeetcodeMedium/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
