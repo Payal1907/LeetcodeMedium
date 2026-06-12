@@ -67,6 +67,7 @@
 | [0322-coin-change](https://github.com/Payal1907/LeetcodeMedium/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Payal1907/LeetcodeMedium/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Payal1907/LeetcodeMedium/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
@@ -235,6 +236,7 @@
 | [0279-perfect-squares](https://github.com/Payal1907/LeetcodeMedium/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Payal1907/LeetcodeMedium/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Payal1907/LeetcodeMedium/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Payal1907/LeetcodeMedium/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0507-perfect-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0507-perfect-number) |
@@ -552,6 +554,7 @@
 | [0299-bulls-and-cows](https://github.com/Payal1907/LeetcodeMedium/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Payal1907/LeetcodeMedium/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Payal1907/LeetcodeMedium/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Payal1907/LeetcodeMedium/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0409-longest-palindrome) |
@@ -1262,6 +1265,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Payal1907/LeetcodeMedium/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Payal1907/LeetcodeMedium/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0731-my-calendar-ii) |
 | [0937-online-stock-span](https://github.com/Payal1907/LeetcodeMedium/tree/master/0937-online-stock-span) |
@@ -1341,6 +1345,7 @@
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Payal1907/LeetcodeMedium/tree/master/0380-insert-delete-getrandom-o1) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Payal1907/LeetcodeMedium/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Doubly-Linked List
 |  |
