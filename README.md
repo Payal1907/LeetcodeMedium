@@ -109,6 +109,7 @@
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0980-unique-paths-iii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/Payal1907/LeetcodeMedium/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
@@ -623,6 +624,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
+| [0980-unique-paths-iii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/1975-maximum-matrix-sum) |
@@ -719,6 +721,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Payal1907/LeetcodeMedium/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Payal1907/LeetcodeMedium/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0980-unique-paths-iii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/Payal1907/LeetcodeMedium/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Payal1907/LeetcodeMedium/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -979,6 +982,7 @@
 | [0090-subsets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
+| [0980-unique-paths-iii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0980-unique-paths-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Payal1907/LeetcodeMedium/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Payal1907/LeetcodeMedium/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
