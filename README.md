@@ -19,6 +19,7 @@
 | [0041-first-missing-positive](https://github.com/Payal1907/LeetcodeMedium/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Payal1907/LeetcodeMedium/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Payal1907/LeetcodeMedium/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Payal1907/LeetcodeMedium/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0056-merge-intervals) |
@@ -537,6 +538,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Payal1907/LeetcodeMedium/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Payal1907/LeetcodeMedium/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0128-longest-consecutive-sequence) |
@@ -735,6 +737,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Payal1907/LeetcodeMedium/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0088-merge-sorted-array) |
@@ -874,6 +877,7 @@
 | [0022-generate-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Payal1907/LeetcodeMedium/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Payal1907/LeetcodeMedium/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Payal1907/LeetcodeMedium/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Payal1907/LeetcodeMedium/tree/master/0076-minimum-window-substring) |
