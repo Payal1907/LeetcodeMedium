@@ -70,6 +70,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Payal1907/LeetcodeMedium/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0435-non-overlapping-intervals) |
@@ -510,6 +511,7 @@
 | [0322-coin-change](https://github.com/Payal1907/LeetcodeMedium/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0647-palindromic-substrings) |
@@ -653,6 +655,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Payal1907/LeetcodeMedium/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Payal1907/LeetcodeMedium/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
@@ -1032,6 +1035,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Payal1907/LeetcodeMedium/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Payal1907/LeetcodeMedium/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Payal1907/LeetcodeMedium/tree/master/0455-assign-cookies) |
@@ -1205,6 +1209,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Payal1907/LeetcodeMedium/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Payal1907/LeetcodeMedium/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0525-contiguous-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Payal1907/LeetcodeMedium/tree/master/0713-subarray-product-less-than-k) |
