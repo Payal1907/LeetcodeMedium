@@ -358,6 +358,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Payal1907/LeetcodeMedium/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Payal1907/LeetcodeMedium/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Payal1907/LeetcodeMedium/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -470,6 +471,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Payal1907/LeetcodeMedium/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Payal1907/LeetcodeMedium/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Payal1907/LeetcodeMedium/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1350,6 +1352,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Payal1907/LeetcodeMedium/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal1907/LeetcodeMedium/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
@@ -1374,4 +1377,8 @@
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Payal1907/LeetcodeMedium/tree/master/1472-design-browser-history) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Payal1907/LeetcodeMedium/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
