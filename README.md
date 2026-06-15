@@ -112,6 +112,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0980-unique-paths-iii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/Payal1907/LeetcodeMedium/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Payal1907/LeetcodeMedium/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
@@ -364,6 +365,7 @@
 | [0733-flood-fill](https://github.com/Payal1907/LeetcodeMedium/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/Payal1907/LeetcodeMedium/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Payal1907/LeetcodeMedium/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -637,6 +639,7 @@
 | [0733-flood-fill](https://github.com/Payal1907/LeetcodeMedium/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/Payal1907/LeetcodeMedium/tree/master/0840-magic-squares-in-grid) |
 | [0980-unique-paths-iii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/Payal1907/LeetcodeMedium/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/1975-maximum-matrix-sum) |
