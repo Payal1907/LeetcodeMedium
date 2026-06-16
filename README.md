@@ -845,6 +845,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Payal1907/LeetcodeMedium/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
 | [3336-water-bottles-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3336-water-bottles-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3612-process-string-with-special-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -983,6 +984,7 @@
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Payal1907/LeetcodeMedium/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/Payal1907/LeetcodeMedium/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3612-process-string-with-special-operations-i) |
 | [3684-substring-matching-pattern](https://github.com/Payal1907/LeetcodeMedium/tree/master/3684-substring-matching-pattern) |
 | [3713-longest-balanced-substring-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
