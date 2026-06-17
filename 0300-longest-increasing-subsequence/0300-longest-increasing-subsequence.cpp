@@ -9,7 +9,6 @@ public:
         int p;
         if(prev==-1 || nums[index]>nums[prev]) p=1+helper(index+1,index,n,nums,tt);
         return tt[index][prev+1]=max(p,np);
-
     }
     int lengthOfLIS(vector<int>& nums) {
     int n = nums.size();
