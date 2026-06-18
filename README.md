@@ -115,6 +115,7 @@
 | [0994-rotting-oranges](https://github.com/Payal1907/LeetcodeMedium/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Payal1907/LeetcodeMedium/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Payal1907/LeetcodeMedium/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Payal1907/LeetcodeMedium/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
@@ -680,6 +681,7 @@
 | [0875-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/Payal1907/LeetcodeMedium/tree/master/0878-nth-magical-number) |
 | [0907-koko-eating-bananas](https://github.com/Payal1907/LeetcodeMedium/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Payal1907/LeetcodeMedium/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Payal1907/LeetcodeMedium/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal1907/LeetcodeMedium/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
