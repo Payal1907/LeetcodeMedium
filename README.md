@@ -145,6 +145,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Payal1907/LeetcodeMedium/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1706-min-cost-to-connect-all-points) |
+| [1732-find-the-highest-altitude](https://github.com/Payal1907/LeetcodeMedium/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/Payal1907/LeetcodeMedium/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Payal1907/LeetcodeMedium/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -1240,6 +1241,7 @@
 | [1184-car-pooling](https://github.com/Payal1907/LeetcodeMedium/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1206-corporate-flight-bookings) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Payal1907/LeetcodeMedium/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Payal1907/LeetcodeMedium/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Payal1907/LeetcodeMedium/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Payal1907/LeetcodeMedium/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3546-equal-sum-grid-partition-i) |
