@@ -1385,6 +1385,7 @@
 | [0547-number-of-provinces](https://github.com/Payal1907/LeetcodeMedium/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Payal1907/LeetcodeMedium/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal1907/LeetcodeMedium/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
