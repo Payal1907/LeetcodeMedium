@@ -375,6 +375,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Payal1907/LeetcodeMedium/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Payal1907/LeetcodeMedium/tree/master/2360-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Payal1907/LeetcodeMedium/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -496,6 +497,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Payal1907/LeetcodeMedium/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Payal1907/LeetcodeMedium/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Payal1907/LeetcodeMedium/tree/master/2360-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Payal1907/LeetcodeMedium/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
 |  |
@@ -1389,6 +1391,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Payal1907/LeetcodeMedium/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Payal1907/LeetcodeMedium/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Payal1907/LeetcodeMedium/tree/master/1791-find-center-of-star-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Payal1907/LeetcodeMedium/tree/master/2360-longest-cycle-in-a-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Payal1907/LeetcodeMedium/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
@@ -1416,4 +1419,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Payal1907/LeetcodeMedium/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Payal1907/LeetcodeMedium/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
