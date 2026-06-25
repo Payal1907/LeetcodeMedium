@@ -209,6 +209,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3709-design-exam-scores-tracker](https://github.com/Payal1907/LeetcodeMedium/tree/master/3709-design-exam-scores-tracker) |
 | [3719-longest-balanced-subarray-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Payal1907/LeetcodeMedium/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -626,6 +627,7 @@
 | [3678-design-task-manager](https://github.com/Payal1907/LeetcodeMedium/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Payal1907/LeetcodeMedium/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -1044,6 +1046,7 @@
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1117,6 +1120,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Payal1907/LeetcodeMedium/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/Payal1907/LeetcodeMedium/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Payal1907/LeetcodeMedium/tree/master/3839-number-of-prefix-connected-groups) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Payal1907/LeetcodeMedium/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -1193,6 +1197,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1218,6 +1223,7 @@
 | [0729-my-calendar-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0731-my-calendar-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
 |  |
@@ -1263,6 +1269,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3643-zero-array-transformation-ii) |
 | [3709-design-exam-scores-tracker](https://github.com/Payal1907/LeetcodeMedium/tree/master/3709-design-exam-scores-tracker) |
 | [3719-longest-balanced-subarray-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Payal1907/LeetcodeMedium/tree/master/3788-maximum-score-of-a-split) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Payal1907/LeetcodeMedium/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Database
