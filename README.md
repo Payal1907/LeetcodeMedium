@@ -144,6 +144,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Payal1907/LeetcodeMedium/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Payal1907/LeetcodeMedium/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Payal1907/LeetcodeMedium/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1670-design-front-middle-back-queue](https://github.com/Payal1907/LeetcodeMedium/tree/master/1670-design-front-middle-back-queue) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Payal1907/LeetcodeMedium/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Payal1907/LeetcodeMedium/tree/master/1706-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/Payal1907/LeetcodeMedium/tree/master/1732-find-the-highest-altitude) |
@@ -836,6 +837,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Payal1907/LeetcodeMedium/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Payal1907/LeetcodeMedium/tree/master/0649-dota2-senate) |
+| [1670-design-front-middle-back-queue](https://github.com/Payal1907/LeetcodeMedium/tree/master/1670-design-front-middle-back-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -1172,6 +1174,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Payal1907/LeetcodeMedium/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Payal1907/LeetcodeMedium/tree/master/1670-design-front-middle-back-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1341,6 +1344,7 @@
 | [0937-online-stock-span](https://github.com/Payal1907/LeetcodeMedium/tree/master/0937-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Payal1907/LeetcodeMedium/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1670-design-front-middle-back-queue](https://github.com/Payal1907/LeetcodeMedium/tree/master/1670-design-front-middle-back-queue) |
 | [2429-design-a-food-rating-system](https://github.com/Payal1907/LeetcodeMedium/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Payal1907/LeetcodeMedium/tree/master/3678-design-task-manager) |
 | [3709-design-exam-scores-tracker](https://github.com/Payal1907/LeetcodeMedium/tree/master/3709-design-exam-scores-tracker) |
@@ -1377,6 +1381,7 @@
 | ------- |
 | [0937-online-stock-span](https://github.com/Payal1907/LeetcodeMedium/tree/master/0937-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Payal1907/LeetcodeMedium/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Payal1907/LeetcodeMedium/tree/master/1670-design-front-middle-back-queue) |
 ## Geometry
 |  |
 | ------- |
@@ -1427,6 +1432,7 @@
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Payal1907/LeetcodeMedium/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Payal1907/LeetcodeMedium/tree/master/1670-design-front-middle-back-queue) |
 ## Union-Find
 |  |
 | ------- |
