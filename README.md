@@ -359,6 +359,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Payal1907/LeetcodeMedium/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Payal1907/LeetcodeMedium/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Payal1907/LeetcodeMedium/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Payal1907/LeetcodeMedium/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -475,6 +476,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Payal1907/LeetcodeMedium/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Payal1907/LeetcodeMedium/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Payal1907/LeetcodeMedium/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Payal1907/LeetcodeMedium/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Payal1907/LeetcodeMedium/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1403,6 +1405,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Payal1907/LeetcodeMedium/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Payal1907/LeetcodeMedium/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Payal1907/LeetcodeMedium/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Payal1907/LeetcodeMedium/tree/master/0797-all-paths-from-source-to-target) |
@@ -1440,5 +1443,6 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Payal1907/LeetcodeMedium/tree/master/0207-course-schedule) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Payal1907/LeetcodeMedium/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
