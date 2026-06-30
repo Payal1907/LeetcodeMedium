@@ -83,6 +83,7 @@
 | [0475-heaters](https://github.com/Payal1907/LeetcodeMedium/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Payal1907/LeetcodeMedium/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Payal1907/LeetcodeMedium/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0494-target-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Payal1907/LeetcodeMedium/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0503-next-greater-element-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/0525-contiguous-array) |
@@ -536,6 +537,7 @@
 | [0410-split-array-largest-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Payal1907/LeetcodeMedium/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Payal1907/LeetcodeMedium/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1031,6 +1033,7 @@
 | [0090-subsets-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Payal1907/LeetcodeMedium/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Payal1907/LeetcodeMedium/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Payal1907/LeetcodeMedium/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0980-unique-paths-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Payal1907/LeetcodeMedium/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
