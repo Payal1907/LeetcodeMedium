@@ -283,6 +283,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Payal1907/LeetcodeMedium/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2605-count-anagrams](https://github.com/Payal1907/LeetcodeMedium/tree/master/2605-count-anagrams) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Payal1907/LeetcodeMedium/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Payal1907/LeetcodeMedium/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Payal1907/LeetcodeMedium/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/Payal1907/LeetcodeMedium/tree/master/3234-double-modular-exponentiation) |
@@ -1005,6 +1006,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Payal1907/LeetcodeMedium/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Payal1907/LeetcodeMedium/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Payal1907/LeetcodeMedium/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Payal1907/LeetcodeMedium/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -1111,6 +1113,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Payal1907/LeetcodeMedium/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Payal1907/LeetcodeMedium/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Payal1907/LeetcodeMedium/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Payal1907/LeetcodeMedium/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Payal1907/LeetcodeMedium/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Payal1907/LeetcodeMedium/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Payal1907/LeetcodeMedium/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
