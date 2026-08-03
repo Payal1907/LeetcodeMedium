@@ -1457,4 +1457,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Payal1907/LeetcodeMedium/tree/master/0207-course-schedule) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Payal1907/LeetcodeMedium/tree/master/2360-longest-cycle-in-a-graph) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
