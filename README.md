@@ -455,6 +455,7 @@
 | [0739-daily-temperatures](https://github.com/Payal1907/LeetcodeMedium/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Payal1907/LeetcodeMedium/tree/master/0853-car-fleet) |
 | [0937-online-stock-span](https://github.com/Payal1907/LeetcodeMedium/tree/master/0937-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/1021-remove-outermost-parentheses) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Payal1907/LeetcodeMedium/tree/master/1072-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Payal1907/LeetcodeMedium/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Payal1907/LeetcodeMedium/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -971,6 +972,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Payal1907/LeetcodeMedium/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Payal1907/LeetcodeMedium/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Payal1907/LeetcodeMedium/tree/master/1006-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Payal1907/LeetcodeMedium/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Payal1907/LeetcodeMedium/tree/master/1250-longest-common-subsequence) |
@@ -1466,4 +1468,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Payal1907/LeetcodeMedium/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
