@@ -1472,4 +1472,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Payal1907/LeetcodeMedium/tree/master/1021-remove-outermost-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Payal1907/LeetcodeMedium/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
